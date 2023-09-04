@@ -1,75 +1,46 @@
-<!-- Please update value in the {}  -->
+# 404 Not Found Challenge
 
-<h1 align="center">{Your project name}</h1>
+Este este es el desafío "404 Not Found" de [DevChallenges](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY#). El objetivo del desafío es crear una página de error 404 personalizada.
 
-<div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
+## Vista Previa
 
-<div align="center">
-  <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
-      Challenge
-    </a>
-  </h3>
-</div>
+![Vista Previa](./Captura%20de%20pantalla%20404%20page%20not%20found.png)
 
-<!-- TABLE OF CONTENTS -->
+## Descripción
 
-## Table of Contents
+He creado una página de error 404 simple pero efectiva. La página incluye una imagen ilustrativa, un mensaje claro de error y un botón para volver a la página de inicio. La página es totalmente receptiva y se ve genial en pantallas de todos los tamaños.
 
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+## Demostración
 
-<!-- OVERVIEW -->
+Puedes ver una [demostración en vivo aquí](https://tu-sitio-web.com/404).
 
-## Overview
+## Características
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+- Página de error 404 personalizada.
+- Diseño receptivo para pantallas de todos los tamaños.
+- Botón para volver a la página de inicio.
+- Uso de [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- uso de [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) para la estructura y el estilo.
+- Fuentes de Google utilizadas para una tipografía atractiva.
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+## Cómo Usar
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+1. Clona este repositorio en tu máquina local.
+2. Abre el archivo `index.html` en tu navegador web para ver la página.
 
-### Built With
+## Agradecimientos
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+Quiero agradecer a [DevChallenges](https://devchallenges.io/) por proporcionar estos desafíos divertidos y educativos. También quiero agradecer a la comunidad de DevChallenges por su apoyo y retroalimentación.
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+## Áreas de Mejora
 
-## Features
+- Añadir una animación suave al botón "Volver a la página de inicio".
+- Mejorar la accesibilidad de la página para usuarios con discapacidades.
+- Optimizar la carga de la imagen para un rendimiento más rápido de la página.
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+## Falencias Obtenidas
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+- Experimenté con diferentes diseños antes de llegar a este resultado final, lo que me llevó más tiempo del esperado.
+- A veces, el posicionamiento de elementos en CSS puede ser un desafío.
 
 
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
-## Contact
-
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
