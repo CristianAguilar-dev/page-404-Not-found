@@ -6,15 +6,13 @@ Este este es el desafío "404 Not Found" de [DevChallenges](https://devchallenge
 
 ![Vista Previa](./Captura%20de%20pantalla%20404%20page%20not%20found.png)
 
-- [Ver sitio en vivo](https://cristianaguilar-dev.github.io/page-404-Not-found/)
-
 ## Descripción
 
 He creado una página de error 404 simple pero efectiva. La página incluye una imagen ilustrativa, un mensaje claro de error y un botón para volver a la página de inicio. La página es totalmente receptiva y se ve genial en pantallas de todos los tamaños.
 
 ## Demostración
 
-Puedes ver una [demostración en vivo aquí](https://tu-sitio-web.com/404).
+Puedes ver una [demostración en vivo aquí](https://cristianaguilar-dev.github.io/page-404-Not-found/)).
 
 ## Características
 
